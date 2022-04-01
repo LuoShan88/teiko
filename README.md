@@ -1,1 +1,1 @@
-# teiko
+# teiko練習用
